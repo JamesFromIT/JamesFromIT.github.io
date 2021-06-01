@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jnightme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jnight.me
+  * I am jnightme (https://keybase.io/jnightme) on keybase.
+  * I have a public key ASBHvLEpxOaaXK0fDSD8YDME_baSxeT3pNkzp8XDY973Igo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012047bcb129c4e69a5cad1f0d20fc603304fdb692c5e4f7a4d933a7c5c363def7220a",
+      "host": "keybase.io",
+      "kid": "012047bcb129c4e69a5cad1f0d20fc603304fdb692c5e4f7a4d933a7c5c363def7220a",
+      "uid": "99e52ff6bd44d289899a351412dbe919",
+      "username": "jnightme"
+    },
+    "merkle_root": {
+      "ctime": 1622558130,
+      "hash": "02f58ef7a77589466bbdda2c27881597723ccaf5760e10ab00c6052a699eb9718c9530a8edfe3ec3710ffa3f5326af2bacb9c06235cffe88c643d82555bf9920",
+      "hash_meta": "b8d8d5fda31b593059fb6e126f6b50881d5c0ea99d6847eb4fc055e7a5f2dd59",
+      "seqno": 20088598
+    },
+    "service": {
+      "entropy": "ZOZMj4qXd2riXau9oX5f6c4B",
+      "hostname": "jnight.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1622558193,
+  "expire_in": 504576000,
+  "prev": "93cd6417dedaebcc78f83bcac809040f92bfebd99034d87405d2eadaf365250c",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgR7yxKcTmmlytHw0g/GAzBP22ksXk96TZM6fFw2Pe9yIKp3BheWxvYWTESpcCCcQgk81kF97a68x4+DvKyAkED5K/69mQNNh0BdLq2vNlJQzEID4sFNzpgkJuSpbxUjhHw3cUSand0FeGoVVcfhg7jgXGAgHCo3NpZ8RAsqc/W3u5LearxYzxAJ1JjvV3IijVWGt7cX0hj3EGAT/25D5F8oSehLqFXsPEMPl/vzdbuDd1+TjB4l14G5abBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMM/VXges5xNLT+n0yL/7H7bPRjObwEqadNTrqOjlmSVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jnightme
+
+==================================================================
